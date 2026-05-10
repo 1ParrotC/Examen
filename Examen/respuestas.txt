@@ -1,0 +1,5 @@
+a) El símbolo '-' delante de los atributos significa que son privados (no accesibles desde fuera de la clase). El símbolo '+' delante de los métodos significa que son públicos (accesibles desde fuera de la clase).
+
+b) El tipo de dato 'bool' (booleano) es disponible y puede tener dos valores: true y false.
+
+c) El método ToString() sirve para devolver una representación en forma de cadena (string) de un objeto. Se puede sobrescribir (override) en una clase para proporcionar una descripción legible del objeto.
