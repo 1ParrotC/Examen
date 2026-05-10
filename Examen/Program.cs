@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-// Lista de libros y operaciones solicitadas en el ejercicio 2
+// Lista de libros y operaciones solicitadas en el ejercicio 
 var lista = new List<Libro>();
 
 // a) Insertar tres libros
